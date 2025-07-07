@@ -1,9 +1,9 @@
 [Desktop Entry]
-Version=1.0
+Version=2.1.0
 Name=Separador de PDF
 Comment=Separa páginas de um PDF e as renomeia
-Exec="/home/rmfacilities/Documentos/AulaPythonPlanilha/SepararPdfApp/launch.sh"
-Icon="/home/rmfacilities/Documentos/AulaPythonPlanilha/SepararPdfApp/separador-pdf.png"
+Exec=python3 /home/rmfacilities/Documentos/SeparadorPDF_Nativo/main.py
+Icon=/home/rmfacilities/Documentos/SeparadorPDF_Nativo/separador-pdf.png
 Terminal=false
 Type=Application
 Categories=Office;Utility;
